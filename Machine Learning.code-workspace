@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "Colab CPU",
-			"uri": "colab://m-s-9nhe7wxzuht1/"
 		}
 	],
 	"settings": {}
